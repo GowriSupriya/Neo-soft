@@ -21,10 +21,8 @@ backend-assignment/
 │   │   ├── userRoutes.ts
 │   ├── database.ts
 │   ├── server.ts
-│── dist/ (compiled TypeScript files)
 │── package.json
 │── tsconfig.json
-│── .env
 │── README.md
 ```
 
